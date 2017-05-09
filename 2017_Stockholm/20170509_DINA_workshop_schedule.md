@@ -6,7 +6,7 @@
 - 10:00 - 10:45: Introduction by participants with short partner updates
 - 10:45 - 11:30: Discussion of workshop agenda
 - 11:30 - 12:30: **Lunch**
-- 12:30 - 15:00: Setting up a local version of current DINA-Web collection manager modules (Markus, Ingimar); practical routines and discussion of best practices in providing setups for development
+- 12:30 - 14:00: Setting up a local version of current DINA-Web collection manager modules (Markus, Ingimar); practical routines and discussion of best practices in providing setups for development
 - 14:00 - 15:00: Hands-on setup by all participants
 - 15:00 - 15:30: **Coffee**
 - 15:30 - 17:00: Update on taxonomy module options (Markus, Ingimar); local setup and testing by all participants
