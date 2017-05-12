@@ -26,9 +26,9 @@
 ## Wednesday 17. May 2017
 - 09:00 - 10:15: Update on DINA data model and user management module (NRM)
 - 10:15 - 10:30: **Coffee**
-- 10:30 - 12:00: Breakout groups discussion on strategies for data model refinement and collaborative user management module implementation
-- 12:00 - 13:00: **Lunch**
-- 13:00 - 14:00 Museum tour and visit to the zoological collection
+- 10:30 - 11:45: Breakout groups discussion on strategies for data model refinement and collaborative user management module implementation
+- 11:45 - 12:45: **Lunch**
+- 12:45 - 14:00 Visit to the botanical and zoological collections
 - 14:00 - 15:00 GitHub repo management practices
 - 15:00 - 15:30: **Coffee**
 - 15:30 - 17:00: Discussion of module integration approaches (Ottawa)
